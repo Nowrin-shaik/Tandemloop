@@ -1,5 +1,3 @@
-package com.tandemloop.programs;
-
 public class Program_4 {
 	public static void main(String[] args) {
 		int[] input= {1,2,8,9,12,46,76,82,15,20,30};
